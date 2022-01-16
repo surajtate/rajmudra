@@ -1,0 +1,63 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  /* color: #FFFFFF; */
+}
+h1,h2{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  line-height: 1.5;
+  font-size: 3rem;
+  color: #FFF;
+}
+footer{
+  text-align: center;
+  padding: 7px 15px;
+}
+i{
+  color: #2B7A78;
+}
+p{
+  line-height: 1;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.title{
+  color: #FFFFFF;
+}
+.rajmudra{
+  color: #FFF;
+}
+.food{
+  color: #F76C6C;
+}
+.link{
+  color: #FFF;
+}
+.heading{
+  text-align: center;
+  margin: 100px 5px 0;
+
+}
+.review-img{
+  width: 10%;
+}
+.footer-image{
+  padding: 15px 10px;
+}
+#customers-reviews
+{
+  font-weight: bold;
+  text-align: center;
+  background-color: #2B7A78;
+}
+.carousel-item{
+padding: 5px 50px;
+}
+#features{
+  text-align: center;
+
+}
+#title{
+  background-color: #2B7A78;
+}
